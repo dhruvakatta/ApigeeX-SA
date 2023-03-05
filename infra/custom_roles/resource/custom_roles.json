@@ -14,9 +14,6 @@
         "apigee.environments.create",
         "apigee.environments.get",
         "apigee.environments.update",
-        "apigee.sharedflows.create",
-        "apigee.sharedflows.get",
-        "apigee.sharedflows.update",
         "apigee.targetservers.create",
         "apigee.targetservers.get",
         "apigee.targetservers.update"
