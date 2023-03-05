@@ -19,7 +19,7 @@
         "apigee.sharedflows.update",
         "apigee.targetservers.create",
         "apigee.targetservers.get",
-        "apigee.targetservers.update",
+        "apigee.targetservers.update"
       ],
       "members": []
     }
