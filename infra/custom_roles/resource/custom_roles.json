@@ -20,9 +20,6 @@
         "apigee.targetservers.create",
         "apigee.targetservers.get",
         "apigee.targetservers.update",
-        "apigee.vaults.create",
-        "apigee.vaults.get",
-        "apigee.vaults.update"
       ],
       "members": []
     }
