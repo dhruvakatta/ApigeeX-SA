@@ -1,7 +1,7 @@
 {
   "customRoles": {
     "apigeeDeployer": {
-      "roleId": "sa.apigeeDeployer",
+      "roleId": "sa.apigeedeployer",
       "title": "SA Apigee Deployer",
       "description": "Least privilege role for SA dedicated to deploying ApigeeX",
       "permissions": [
@@ -14,9 +14,6 @@
         "apigee.environments.create",
         "apigee.environments.get",
         "apigee.environments.update",
-        "apigee.proxyrevisions.create",
-        "apigee.proxyrevisions.get",
-        "apigee.proxyrevisions.update",
         "apigee.sharedflows.create",
         "apigee.sharedflows.get",
         "apigee.sharedflows.update",
